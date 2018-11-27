@@ -120,9 +120,9 @@ function showPage() {
 <a href="/index.html" class="button1">Go Home</a>
 
 	<div style="text-align:center;">
-		<h1 style="color:purple;">Titanium Network Proxy</h1>
-                <h1 style="color:green;">Local Proxy</h1>														
-		<h3 style="color:blue;">Using the titaniumnetwork proxy will allow you to anonymously visit any site you wish. Due to its anonymous nature, you can even unblock websites that are blocked by school and work firewalls!</h3>
+		<h1 style="color:purple;">Navyyy's Special Sites</h1>
+                <h1 style="color:green;">Local Sites</h1>														
+		<h3 style="color:blue;">Using Navyyy's sites will allow you to anonymously visit any site you wish. Due to its anonymous nature, you can even unblock websites that are blocked by school and work firewalls!</h3>
 	</div>
 	
 	<?php if(isset($error_msg)){ ?>
@@ -159,8 +159,7 @@ function showPage() {
 		<h3 style="color:green;">Dailymotion (kinda works)</h3>
 		<h3 style="color:green;">Liveleaks</h3>
 		<h3 style="color:green;">And many more!</h3>
-<h5 style="color:green;">Proxy is ad-supported. I hate ads too, but they're a necessary evil. Click on it and I get $, you don't have to buy it or whatever</h5>
-<iframe data-aa='1023504' src='//ad.a-ads.com/1023504?size=234x60' scrolling='no' style='width:234px; height:60px; border:0px; padding:0;overflow:hidden' allowtransparency='true'></iframe>
+</iframe>
 	    </div>
 
 
