@@ -1,5 +1,5 @@
-# TitaniumPhoenix
-A stylish proxy site with many features. Easy to modify and flows well.
+# NavyPhoenix
+A stylish proxy site with many features. Easy to modify and flows well. Based off of TitaniumPhoenix
 
 #### Note to anyone who wants to modify
 
